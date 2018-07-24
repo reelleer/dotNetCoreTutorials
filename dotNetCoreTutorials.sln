@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFGetStarted.AspNetCore.NewDb", "EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb.csproj", "{210A655C-0814-482F-987E-0CCFC5AD09EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{D078C82E-A8DC-4EAD-B738-A440C2276221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesMovie", "RazorPagesMovie\RazorPagesMovie.csproj", "{D078C82E-A8DC-4EAD-B738-A440C2276221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{63389C30-EE5F-4801-AED1-D85081C6D7C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D078C82E-A8DC-4EAD-B738-A440C2276221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D078C82E-A8DC-4EAD-B738-A440C2276221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D078C82E-A8DC-4EAD-B738-A440C2276221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63389C30-EE5F-4801-AED1-D85081C6D7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63389C30-EE5F-4801-AED1-D85081C6D7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63389C30-EE5F-4801-AED1-D85081C6D7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63389C30-EE5F-4801-AED1-D85081C6D7C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
